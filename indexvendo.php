@@ -23,7 +23,7 @@
         </fieldset>
     </div>
  
-    <div class="body-container">
+    <div class="div-container">
         <fieldset class="fieldset">
             <legend>Options</legend>
             <label for="size">Size:</label>
